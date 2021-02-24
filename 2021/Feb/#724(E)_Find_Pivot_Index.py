@@ -12,3 +12,4 @@ class Solution:
             sum_so_far += nums[i]
         
         return -1
+        
