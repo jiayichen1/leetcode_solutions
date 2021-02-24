@@ -1,3 +1,5 @@
+from functools import cmp_to_key
+
 class Solution:
     # METHOD 1: from lc discussion board
     # essentially searching in a very efficient way
